@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.top{
+    height: 200px;
+    width: 100%;
+    background-color: blue;
+}
+
+.who-are-we{
+    background-color: white;
+    margin-top: -90px;
+    padding-left: 100px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+    padding-right: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 1px 1px 50px 0.1px rgb(245, 241, 241);
+}
+
+h3{
+    color: #F56411;
+    margin-top: 40px;
+    font-family: Nunito Sans;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 41px;
+}
+
+.line{
+    color: #F56411;
+    font-size: 30px;
+    font-family: 'Noto Sans Mahajani', sans-serif;
+    font-weight: 400;
+}
+
+.info{
+    margin-top: 40px;
+    margin-bottom: 33px;
+    font-family: Nunito Sans;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 55px;
+    text-align: center;
+    width: 800px;
+}
+
+.text{
+    text-align: center;
+    font-family: Nunito Sans;
+    font-size: 24px;
+    width: 800px;
+    margin-bottom: 60px;
+}
